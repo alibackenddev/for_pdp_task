@@ -2,15 +2,8 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Objects;
 import java.util.Scanner;
-import java.util.logging.Logger;
 
 public class Main {
-//    static {
-//        String file = Main.class.getClassLoader().getResource("logging.properties").getFile();
-//        System.setProperty("java.util.logging.config.file", file);
-//    }
-//
-//    private static Logger logger = Logger.getLogger(Main.class.getSimpleName());
 
     public static void main(String[] args) throws IOException, InterruptedException {
         Service service = new ServiceImpl();

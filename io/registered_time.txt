@@ -1,0 +1,3 @@
+User{email='ali@gmail.com', password='ig0116ily', phone='+998946726173', chatLink='ali.txt'}, Registered time [ 18-03-2024 , 14:24:03]
+User{email='poul_smith@gmail.com', password='ps123webbro', phone='+998931236577', chatLink='poul_smith.txt'}, Registered time [ 18-03-2024 , 15:00:39]
+User{email='sarah@gmail.com', password='qwwdw213efw', phone='+998910980012', chatLink='sarah.txt'}, Registered time [ 18-03-2024 , 15:16:27]
